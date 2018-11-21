@@ -1,2 +1,0 @@
-# BetterReact
-Created with CodeSandbox
